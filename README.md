@@ -1,3 +1,14 @@
+# Working WebApp Demo Images
+This webapp is called as IdolList. This webapp is built using typescript and react. This is a pretty basic app but helps deeply in understanding the true value of typescript over javascript while building.
+
+## Before
+![Screenshot (22)](https://user-images.githubusercontent.com/58028401/128118987-e9406ee5-2875-4d1a-9e32-8cf0e30dc638.png)
+
+## After
+![Screenshot (23)](https://user-images.githubusercontent.com/58028401/128119333-8d586bff-eda6-4076-908d-aa90ef18ae4a.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,5 +55,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-# IdolList-Webapp-made-using-Typescript-and-React
+
 
